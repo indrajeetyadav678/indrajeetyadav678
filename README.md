@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="">
 <h1 align="center">Hi 👋, I'm Indrajeet Yadav</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
